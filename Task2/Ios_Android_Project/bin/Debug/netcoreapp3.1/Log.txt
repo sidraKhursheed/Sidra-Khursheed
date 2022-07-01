@@ -1,0 +1,8 @@
+2021-06-10 08:54:22:165 [Appium] Welcome to Appium v1.20.2
+2021-06-10 08:54:22:166 [Appium] Non-default server args:
+2021-06-10 08:54:22:166 [Appium]   address: 127.0.0.1
+2021-06-10 08:54:22:167 [Appium]   sessionOverride: true
+2021-06-10 08:54:22:167 [Appium]   launch: true
+2021-06-10 08:54:22:167 [Appium]   logFile: /Users/culturatech/TFS/greenstone/Andriod_IOS_TestAutomation/Ios_Android_Project/bin/Debug/netcoreapp3.1/Log.txt
+2021-06-10 08:54:22:167 [Appium]   relaxedSecurityEnabled: true
+2021-06-10 08:54:22:181 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.

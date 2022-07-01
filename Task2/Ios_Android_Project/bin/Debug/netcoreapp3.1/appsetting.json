@@ -1,0 +1,37 @@
+﻿{
+    "AvailableEnvs": [ "Test", "Staging", "Prod" ],
+  "AvailableBoxes": [ "machine01", "machine02", "machine03" ],
+    "AvailableDB": [ "PSQL", "SQL" ],
+    "AvailableBrowsers": [ "IE", "Chrome", "Firefox", "Edge" ],
+    "AvailableModes": [ "Dev", "Prod" ],
+    "AvailableOS": [ "ios", "android" ],
+
+    "SelectedMode": "Dev",
+
+
+  "Dev": {
+    "Dev_SelectedEnvs": "Test",
+    "Dev_SelectedDevice": "android",
+    "Dev_SelectedBoxes": "machine02",
+    "Dev_SelectedDB": "PSQL"
+  },
+
+  "Prod": {
+    "Prod_SelectedEnvs": "Test",
+    "Prod_SelectedDevice": "android",
+    "Prod_SelectedBoxes": "machine02",
+    "Prod_SelectedDB": "PSQL"
+  },
+
+    "machine02-psql-test": {
+        "URL": "",
+        "UserName": "",
+        "Password": ""
+    },
+
+    "machine02-sql-test": {
+        "URL": "",
+        "UserName": "",
+        "Password": ""
+    }
+}
